@@ -12,7 +12,7 @@
 			"value": "https://endtoendproject1.dfs.core.windows.net/"
 		},
 		"gitHttpServer_properties_typeProperties_url": {
-			"value": "https://github.com/anshlambaoldgit"
+			"value": "https://raw.githubusercontent.com"
 		},
 		"containerUri": {
 			"value": ""
